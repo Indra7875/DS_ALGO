@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43eba8ad-f944-4c98-a40d-c9a9146c7ea7" name="Changes" comment="">
+    <list default="true" id="43eba8ad-f944-4c98-a40d-c9a9146c7ea7" name="Changes" comment="Added RecursionPower Program">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/RecursionPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RecursionPower.java" afterDir="false" />
     </list>
@@ -88,6 +88,14 @@
       <option name="presentableId" value="Default" />
       <updated>1651812415099</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added RecursionPower Program">
+      <created>1652077804620</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652077804620</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,5 +108,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added RecursionPower Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added RecursionPower Program" />
   </component>
 </project>
