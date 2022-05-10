@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="43eba8ad-f944-4c98-a40d-c9a9146c7ea7" name="Changes" comment="Added RecursionPower Program">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RecursionPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RecursionPower.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RecursionPower">
+  <component name="RunManager" selected="Application.RecursionIteration">
     <configuration name="RecursionEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RecursionEx1" />
       <module name="project1" />
@@ -63,6 +62,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RecursionIteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursionIteration" />
+      <module name="project1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RecursionPower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RecursionPower" />
       <module name="project1" />
@@ -72,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecursionIteration" />
         <item itemvalue="Application.RecursionPower" />
         <item itemvalue="Application.RecursionEx2" />
         <item itemvalue="Application.RecursionEx3" />
@@ -95,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652077804620</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added RecursionPower Program">
+      <created>1652077826715</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652077826715</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
