@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43eba8ad-f944-4c98-a40d-c9a9146c7ea7" name="Changes" comment="Added FactorialRecursion Program">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="43eba8ad-f944-4c98-a40d-c9a9146c7ea7" name="Changes" comment="Added FactorialRecursion Program" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +43,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FibonacciRecursion">
+  <component name="RunManager" selected="Application.SumOfDigitsRecursion">
     <configuration name="FactorialRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FactorialRecursion" />
       <module name="project1" />
@@ -74,8 +72,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOfDigitsRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfDigitsRecursion" />
+      <module name="project1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfDigitsRecursion" />
         <item itemvalue="Application.FibonacciRecursion" />
         <item itemvalue="Application.FactorialRecursion" />
         <item itemvalue="Application.RecursionEx2" />
