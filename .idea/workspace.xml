@@ -4,8 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43eba8ad-f944-4c98-a40d-c9a9146c7ea7" name="Changes" comment="Added RecursionPower2 Program">
+    <list default="true" id="43eba8ad-f944-4c98-a40d-c9a9146c7ea7" name="Changes" comment="Added GCD_Recursion Program">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_05_22,_11_12_AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_05_22__11_12_AM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactorialRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructure/FactorialRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FibonacciRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructure/FibonacciRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GCD_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructure/GCD_Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RecursionEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructure/RecursionEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RecursionEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructure/RecursionEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RecursionEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructure/RecursionEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RecursionIteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructure/RecursionIteration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RecursionPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructure/RecursionPower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RecursionPower2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructure/RecursionPower2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumOfDigitsRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructure/SumOfDigitsRecursion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,49 +57,67 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.GCD_Recursion">
-    <configuration name="FactorialRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactorialRecursion" />
+  <component name="RunManager" selected="Application.java8Features.day1.EvenOddPredicate">
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo1" />
       <module name="project1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FibonacciRecursion" />
+    <configuration name="SquareWithLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8Features.day1.SquareWithLambda" />
+      <module name="project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8Features.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareWithoutLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8Features.day1.SquareWithoutLambda" />
+      <module name="project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8Features.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dataStructure.GCD_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructure.GCD_Recursion" />
       <module name="project1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GCD_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GCD_Recursion" />
+    <configuration name="java8Features.day1.EvenOddPredicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8Features.day1.EvenOddPredicate" />
       <module name="project1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecursionPower2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursionPower2" />
-      <module name="project1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfDigitsRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumOfDigitsRecursion" />
-      <module name="project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8Features.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GCD_Recursion" />
-        <item itemvalue="Application.RecursionPower2" />
-        <item itemvalue="Application.SumOfDigitsRecursion" />
-        <item itemvalue="Application.FibonacciRecursion" />
-        <item itemvalue="Application.FactorialRecursion" />
+        <item itemvalue="Application.java8Features.day1.EvenOddPredicate" />
+        <item itemvalue="Application.java8Features.SquareWithLambda" />
+        <item itemvalue="Application.java8Features.SquareWithoutLambda" />
+        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.dataStructure.GCD_Recursion" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652238465593</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added GCD_Recursion Program">
+      <created>1653025308593</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1653025308593</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +199,7 @@
     <MESSAGE value="Added FactorialRecursion Program" />
     <MESSAGE value="Added SumOfDigitsRecursion Program" />
     <MESSAGE value="Added RecursionPower2 Program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added RecursionPower2 Program" />
+    <MESSAGE value="Added GCD_Recursion Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added GCD_Recursion Program" />
   </component>
 </project>

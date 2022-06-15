@@ -1,3 +1,5 @@
+package dataStructure;
+
 public class SumOfDigitsRecursion {
     public static void main(String[] args) {
         System.out.println(sumOfDigits(548));

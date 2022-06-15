@@ -1,3 +1,5 @@
+package dataStructure;
+
 public class RecursionPower {
     public static void main(String[] args) {
         System.out.println(powerOfTwo(4));

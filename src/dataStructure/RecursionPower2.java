@@ -1,3 +1,5 @@
+package dataStructure;
+
 public class RecursionPower2 {
     public static void main(String[] args) {
         System.out.println(power(2,4));

@@ -1,3 +1,5 @@
+package dataStructure;
+
 public class RecursionEx2 {
     public static void main(String[] args) {
 
