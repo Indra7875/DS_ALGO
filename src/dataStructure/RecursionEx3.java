@@ -1,3 +1,5 @@
+package dataStructure;
+
 public class RecursionEx3 {
     public static void main(String[] args) {
         recursiveMethod(4);
